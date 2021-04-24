@@ -4,5 +4,5 @@ A couple of wallpapers to display your brilliance for using a CalyxOS unGooled p
 These work on a Pixel 3a, but should work on other models also.  
   
 <p align="left">
-  <img src="/images/lstats.png" width="1218" height="1400">
+  <img src="/CalyxOSWallpaper1.png" width="340" height="645">
 </p>
