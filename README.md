@@ -1,7 +1,7 @@
 # CalyxOS-Wallpaper  
   
   
-A couple of wallpapers to exhibit to the world your brilliance in using a CalyxOS unGooled cell phone.  
+A couple of wallpapers to exhibit to the world your brilliance in using a CalyxOS non-Goole cell phone.  
 These work on a Pixel 3a, but should work on other models also.  
 Click on the png file names above to download.  
 
