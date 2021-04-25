@@ -9,7 +9,13 @@ Click on the png file names above to download.
 <table>
 <tr><td>
   <img src="/images/CalyxOSWallpaper1.png" width="340" height="645"></td><td><img src="/images/CalyxOSWallpaper2.png" width="340" height="645">
+</td></tr>
+<tr><td>
   <img src="/images/CalyxOSWallpaper3.png" width="340" height="645"></td><td><img src="/images/CalyxOSWallpaper4.png" width="340" height="645">
+</td></tr>
+<tr><td>
+  <img src="/images/CalyxOSWallpaper5.png" width="340" height="645"></td><td><img src="/images/CalyxOSWallpaper6.png" width="340" height="645">
+
 </td></tr>
 </table>
 
