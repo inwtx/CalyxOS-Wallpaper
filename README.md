@@ -41,8 +41,9 @@ Click on the png file names above to download.
 <tr><td>
   <img src="/images/CalyxOSWallpaper21.png" width="340" height="645"><br>CalyxOSWallpaper21.zip</td><td><img src="/images/CalyxOSWallpaper22.png" width="340" height="645"><br>CalyxOSWallpaper22.zip  
 </td></tr>
-  
-  
+<tr><td>
+  <img src="/images/CalyxOSWallpaper23.png" width="340" height="645"><br>CalyxOSWallpaper23.zip</td><td><img src="/images/CalyxOSWallpaper24.png" width="340" height="645"><br>CalyxOSWallpaper24.zip  
+</td></tr>
   
 </table>
 
