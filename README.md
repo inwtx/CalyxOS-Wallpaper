@@ -1,10 +1,15 @@
 # CalyxOS-Wallpaper  
   
+<table width="1200">
+<tr><td>
+<center><img src="/images/Example.jpg" width="340" height="645"></center>
+</td></tr>
+</table>
+  
   
 A few wallpapers to exhibit to the world your brilliance in using a CalyxOS (non-Goole) cell phone operating system.  
 These work on a Pixel 3a, but should work on other models also.  
-Click on the png file names above to download.  
-
+Click on the zip file names above to download.  
 
 <table>
 <tr><td>
